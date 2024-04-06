@@ -1,1 +1,1 @@
-resu-xuniL 's Arcolinux settings repo
+resu-xuniL's Arcolinux settings repo
